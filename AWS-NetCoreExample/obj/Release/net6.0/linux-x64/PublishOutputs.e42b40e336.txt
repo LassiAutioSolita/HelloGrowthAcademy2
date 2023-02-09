@@ -1,0 +1,14 @@
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\AWS-NetCoreExample
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\appsettings.json
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\aws-lambda-tools-defaults.json
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\AWS-NetCoreExample.deps.json
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\AWS-NetCoreExample.runtimeconfig.json
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\AWS-NetCoreExample.pdb
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Temp\AWS-NetCoreExample\src\AWS-NetCoreExample\bin\Release\net6.0\publish\AWS-NetCoreExample.dll

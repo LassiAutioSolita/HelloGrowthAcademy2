@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uUc049nz16MeKf1b5JtskBOyxFH55bZwxzK7My89q78=",
+  "Source": "AWS-NetCoreExample",
+  "BasePath": "_content/AWS-NetCoreExample",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
