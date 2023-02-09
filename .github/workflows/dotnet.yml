@@ -12,6 +12,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build
-      run: dotnet build AWS-NetCoreExample/src/AWS-NetCoreExample
+      run: dotnet build AWS-NetCoreExample
     - name: Test
-      run: dotnet test AWS-NetCoreExample/test/AWS-NetCoreExample.Tests
+      run: dotnet test AWS-NetCoreExample.Tests
